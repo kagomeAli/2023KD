@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T09:29:47.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="UQGXX1DEWwdu3eHzu2wM" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T09:30:45.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="IyH3FAxx_twcM9OhR4zP" version="22.0.0" type="github">
   <diagram name="第 1 页" id="hLtmB-DWcM_YXeh_pc4M">
     <mxGraphModel dx="1496" dy="1927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,10 +38,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XJi-JVIaWWez23qDcYJL-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="539.66" y="482.5" width="20" height="140" as="geometry" />
+          <mxGeometry x="540" y="495" width="20" height="140" as="geometry" />
         </mxCell>
         <mxCell id="XJi-JVIaWWez23qDcYJL-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="449.66" y="527.5" width="20" height="50" as="geometry" />
+          <mxGeometry x="450" y="540" width="20" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oBr_p2yVnsX3oFtsrMXs-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XJi-JVIaWWez23qDcYJL-14" target="XJi-JVIaWWez23qDcYJL-15">
           <mxGeometry relative="1" as="geometry">
@@ -74,7 +74,7 @@
           <mxGeometry x="654.33" y="530" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XJi-JVIaWWez23qDcYJL-23" value="Lcos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="720" y="450" width="60" height="30" as="geometry" />
+          <mxGeometry x="722.5" y="465" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oBr_p2yVnsX3oFtsrMXs-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XJi-JVIaWWez23qDcYJL-33" target="XJi-JVIaWWez23qDcYJL-35">
           <mxGeometry relative="1" as="geometry" />
@@ -305,7 +305,7 @@
           <mxGeometry x="655.66" y="155" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oBr_p2yVnsX3oFtsrMXs-60" value="Random generator &lt;br&gt;pseudo location masp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="133.16" y="312.5" width="140" height="40" as="geometry" />
+          <mxGeometry x="155" y="287.5" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oBr_p2yVnsX3oFtsrMXs-61" value="Mask" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="93.16" y="317.5" width="50" height="30" as="geometry" />
@@ -327,18 +327,21 @@
         </mxCell>
         <mxCell id="oBr_p2yVnsX3oFtsrMXs-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XJi-JVIaWWez23qDcYJL-11" target="XJi-JVIaWWez23qDcYJL-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="553" as="sourcePoint" />
-            <mxPoint x="540" y="553" as="targetPoint" />
+            <mxPoint x="470.34" y="565.5" as="sourcePoint" />
+            <mxPoint x="540.34" y="565.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XJi-JVIaWWez23qDcYJL-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="490" y="505" width="20" height="95" as="geometry" />
+          <mxGeometry x="490.34" y="517.5" width="20" height="95" as="geometry" />
         </mxCell>
         <mxCell id="XJi-JVIaWWez23qDcYJL-94" value="Anormal feature" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="315" y="770" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oBr_p2yVnsX3oFtsrMXs-104" value="groound truth" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=default;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="345" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oBr_p2yVnsX3oFtsrMXs-106" value="Random generator &lt;br&gt;pseudo location masp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="71.84" y="750" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
